@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - main
+      - claude/magical-pascal-3OsEL
     paths:
       - "assets/**"
       - "**.bib"
